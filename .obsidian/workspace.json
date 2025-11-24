@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT_WORKFLOW.md",
+                "file": "stages/stage-1-testovoe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT_WORKFLOW"
+              "title": "stage-1-testovoe"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "3d5b827af1c1aed5",
   "lastOpenFiles": [
+    "GIT_WORKFLOW.md",
     "stages/stage-1-testovoe.md",
     "README.md",
-    "GIT_WORKFLOW.md",
     "stages",
     "progress/notes.md",
     "progress",
