@@ -9,14 +9,14 @@
 ## 📋 Подготовка и знакомство
 
 ### 1.1 Ознакомление с материалами
-- [ ] Ознакомиться по диагонали с содержимым [Notion](https://www.notion.so/MSavin-Mentoring-1f2cc604731280b5b0c5f4bf6e41ed8a)
-- [ ] Ознакомиться с содержимым [Obsidian курса](https://github.com/savinmikhail/course)
+- [x] Ознакомиться по диагонали с содержимым [Notion](https://www.notion.so/MSavin-Mentoring-1f2cc604731280b5b0c5f4bf6e41ed8a) ✅ 2025-11-21
+- [x] Ознакомиться с содержимым [Obsidian курса](https://github.com/savinmikhail/course) ✅ 2025-11-21
 
 ### 1.2 Настройка доступов
-- [ ] Создать аккаунт на [gitlab.mentea.ru](https://gitlab.mentea.ru) и попросить ментора апрувнуть
+- [x] Создать аккаунт на [gitlab.mentea.ru](https://gitlab.mentea.ru) и попросить ментора апрувнуть ✅ 2025-11-21
   - Альтернатива: создать аккаунт на gitlab.com и подтвердить номер телефона (не российский)
-- [ ] Создать проект на GitLab
-- [ ] Отправить ссылку на проект ментору
+- [x] Создать проект на GitLab ✅ 2025-11-22
+- [x] Отправить ссылку на проект ментору ✅ 2025-11-22
 
 ---
 
@@ -25,10 +25,10 @@
 **Репозиторий**: [pet_proj/ecommerce.md](https://github.com/savinmikhail/pet_proj/blob/main/ecommerce.md)
 
 ### Этап 1: Docker + Setup
-- [ ] Ознакомиться с материалами по Linux: [GitHub - Linux Theory](https://github.com/savinmikhail/course/tree/main/theory/linux)
-- [ ] Ознакомиться с материалами по Docker: [GitHub - Docker Theory](https://github.com/savinmikhail/course/tree/main/theory/tools/docker)
-- [ ] Выполнить этап 1 тестового (docker + setup)
-- [ ] Написать ментору, созвониться и обсудить
+- [x] Ознакомиться с материалами по Linux: [GitHub - Linux Theory](https://github.com/savinmikhail/course/tree/main/theory/linux) ✅ 2025-11-22
+- [x] Ознакомиться с материалами по Docker: [GitHub - Docker Theory](https://github.com/savinmikhail/course/tree/main/theory/tools/docker) ✅ 2025-11-22
+- [x] Выполнить этап 1 тестового (docker + setup) ✅ 2025-11-22
+- [x] Написать ментору, созвониться и обсудить ✅ 2025-11-23
 
 ### Этап 2: Первые CRUD'ы
 - [ ] Выполнить этап 2 тестового (первые CRUD'ы)
