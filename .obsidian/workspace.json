@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "71185ce19fa8d1fc",
+    "id": "688a7925200e5d39",
     "type": "split",
     "children": [
       {
-        "id": "9070cef6bf3490a4",
+        "id": "9c39203064f13b94",
         "type": "tabs",
         "children": [
           {
-            "id": "3d5b827af1c1aed5",
+            "id": "a1fb87213bc3b236",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "92f81731391f5d84",
+    "id": "f6604fb86a3e2780",
     "type": "split",
     "children": [
       {
-        "id": "feff40d0bd04f157",
+        "id": "885adb9680ca816a",
         "type": "tabs",
         "children": [
           {
-            "id": "b1aeb936eb838dee",
+            "id": "afc846f581e9e9c6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "ef4d0f6bc7b881d0",
+            "id": "c72b9cca0b9684e1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "657f0593e4778d1a",
+            "id": "961efb8205619055",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "c3d83cfc64aa447f",
+    "id": "6b6d6db1c27dcd51",
     "type": "split",
     "children": [
       {
-        "id": "12841bed2fc492a1",
+        "id": "c3406190c250e627",
         "type": "tabs",
         "children": [
           {
-            "id": "1ecd6aeacaab953f",
+            "id": "5231824e112abacb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-START-HERE.md",
+                "file": "stages/stage-1-testovoe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 00-START-HERE"
+              "title": "Обратные ссылки для stage-1-testovoe"
             }
           },
           {
-            "id": "ec561e8409d69d06",
+            "id": "74015158a4f13ec4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-START-HERE.md",
+                "file": "stages/stage-1-testovoe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 00-START-HERE"
+              "title": "Исходящие ссылки из stage-1-testovoe"
             }
           },
           {
-            "id": "9240deed17f0a4b2",
+            "id": "7698f4bf6165a674",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "da285458719fd99f",
+            "id": "2c1afe90910ad2f5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "c5836fe11c58a4de",
+            "id": "b490ae8280263a16",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-START-HERE.md",
+                "file": "stages/stage-1-testovoe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 00-START-HERE"
+              "title": "Структура stage-1-testovoe"
             }
           }
         ]
@@ -184,22 +184,8 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3d5b827af1c1aed5",
+  "active": "a1fb87213bc3b236",
   "lastOpenFiles": [
-    "GIT_WORKFLOW.md",
-    "stages/stage-1-testovoe.md",
-    "README.md",
-    "stages",
-    "progress/notes.md",
-    "progress",
-    "00-START-HERE.md",
-    "resources/links.md",
-    "resources/templates/stage-template.md",
-    "progress/questions.md",
-    "stages/stage-4-job-search.md",
-    "stages/stage-3-hr-interview.md",
-    "stages/stage-2-tech-interview.md",
-    "_START_HERE.md",
-    "QUICK_START.md"
+    "GIT_WORKFLOW.md"
   ]
 }
