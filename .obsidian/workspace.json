@@ -25,12 +25,14 @@
             "id": "417426fbdf40ab55",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "stages/stage-1-testovoe.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.10.6"
+              "icon": "lucide-file",
+              "title": "stage-1-testovoe"
             }
           }
         ],
@@ -177,13 +179,23 @@
               "icon": "lucide-list",
               "title": "Структура 00-START-HERE"
             }
+          },
+          {
+            "id": "0d320d29ceeaf58f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +206,11 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "417426fbdf40ab55",
+  "active": "b1aeb936eb838dee",
   "lastOpenFiles": [
     "README.md",
     "stages/stage-1-testovoe.md",
